@@ -1,0 +1,6 @@
+Esta es la historia de Emiliano Vega
+Tengo 42 años y vivo en Argentina
+Provincia de Santa Cruz.
+
+Hoy hablamos del comienzo de su historia
+Aqui comienzo mis primeros pasos de programación
